@@ -143,7 +143,7 @@ def init(key):
 
 
 if __name__ == "__main__":
-    db = pymysql.connect("localhost", "root", "3396959", "edata", charset="utf8")
+    db = pymysql.connect("localhost", "root", "passwd", "edata", charset="utf8")
     cursor = db.cursor()
     # key = input('输入搜索关键字(english):')
     key = 'chinese'
