@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a0a4648f-a57e-4cd4-99fd-1c5d125249ca" name="aliyun" url="http://47.93.245.136">
+        <fileTransfer host="47.93.245.136" port="22" rootFolder="/root/e-hentai" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
